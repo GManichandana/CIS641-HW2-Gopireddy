@@ -1,6 +1,5 @@
 # CIS641-HW2-Gopireddy
 # Manichandana Gopireddy
-# My Intrests
  - cooking
  - Fashion Design
  - learning new things

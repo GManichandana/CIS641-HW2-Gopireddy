@@ -1,6 +1,4 @@
 # CIS641-HW2-Gopireddy
-
-<<<<<<< HEAD
 # Manichandana Gopireddy
  - cooking
  - Fashion Design
@@ -11,5 +9,3 @@
  - I have learned SQL and still in progress
    
  (https://i.pinimg.com/originals/b1/b4/37/b1b4370b206610c2a6b61f26181b1f70.gif)
-=======
->>>>>>> 81a066d3e6dba90630301839b5ada6c4cef39847
